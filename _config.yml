@@ -1,9 +1,15 @@
 title: ДИПЛОМЕН ПРОЕКТ 2024
-description: © 2024 viara-trifonova
+description: 
 author: Вяра Трифонова
 theme: jekyll-theme-minimal
 url: "https://viara-trifonova.github.io/"
 baseurl: "/diplomna_public"
 header_pages:
-  - index.md
-  - aim.md
+- index.md
+- aim.md
+- result.md
+- sch.md
+- pcb.md
+- box.md
+- rec.md
+footer: viaratrifonova@gmail.com © viara-trifonova 2024
