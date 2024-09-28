@@ -7,8 +7,8 @@ theme: jekyll-theme-slate  # Използваме тема
 # Навигация (табове)
 header_pages:
   - index.md
-  - tsel-na-diplomnata-rabota.md
-  - recenziya.md
-  - shema.md
-  - platka.md
-  - korpus.md
+  - aim.md
+  - rec.md
+  - sch.md
+  - pcb.md
+  - box.md
