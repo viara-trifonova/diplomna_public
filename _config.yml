@@ -1,5 +1,5 @@
 title: ДИПЛОМЕН ПРОЕКТ 2024
-description: 
+description: Проектиране на аудио ефект за електрическа китара
 author: Вяра Трифонова
 theme: jekyll-theme-minimal
 url: "https://viara-trifonova.github.io/"
@@ -12,4 +12,5 @@ header_pages:
 - pcb.md
 - box.md
 - rec.md
+- file.md
 footer: viaratrifonova@gmail.com © viara-trifonova 2024
