@@ -6,4 +6,4 @@ url: "https://viara-trifonova.github.io/"
 baseurl: "/diplomna_public"
 header_pages:
   - index.md
-  - about.md
+  - aim.md
