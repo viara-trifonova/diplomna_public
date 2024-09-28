@@ -1,3 +1,9 @@
-title: My Project Site
-description: This is my project website using GitHub Pages.
+title: ДИПЛОМЕН ПРОЕКТ 2024
+description: © 2024 viara-trifonova
+author: Вяра Трифонова
 theme: jekyll-theme-minimal
+url: "https://viara-trifonova.github.io/"
+baseurl: "/diplomna_public"
+header_pages:
+  - index.md
+  - about.md
